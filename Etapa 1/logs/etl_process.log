@@ -1,0 +1,221 @@
+2024-06-07 05:47:23,708 - INFO - Extrayendo datos para MMM desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:48:27,461 - INFO - Datos extraídos exitosamente para MMM
+2024-06-07 05:48:27,461 - INFO - Transformando datos
+2024-06-07 05:48:27,463 - INFO - Datos transformados exitosamente
+2024-06-07 05:48:27,463 - INFO - Guardando datos transformados en data\MMM_processed.csv
+2024-06-07 05:48:27,464 - INFO - Datos guardados exitosamente
+2024-06-07 05:48:27,510 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:48:27,567 - DEBUG - Adding TBB (D:\Bootcamp\Proyecto - Parte inicial\.env\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-06-07 05:48:27,573 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:48:27,592 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmplu9s8rzd\guc2hjyb.json
+2024-06-07 05:48:27,595 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmplu9s8rzd\wrz8bgf7.json
+2024-06-07 05:48:27,598 - DEBUG - idx 0
+2024-06-07 05:48:27,599 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:48:27,599 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=84085', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmplu9s8rzd\\guc2hjyb.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmplu9s8rzd\\wrz8bgf7.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmplu9s8rzd\\prophet_modelsozjndn1\\prophet_model-20240607054827.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:48:27,599 - INFO - Chain [1] start processing
+2024-06-07 05:48:28,005 - INFO - Chain [1] done processing
+2024-06-07 05:49:08,488 - INFO - Extrayendo datos para MMM desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:50:11,024 - INFO - Datos extraídos exitosamente para MMM
+2024-06-07 05:50:11,025 - INFO - Transformando datos
+2024-06-07 05:50:11,026 - INFO - Datos transformados exitosamente
+2024-06-07 05:50:11,026 - INFO - Guardando datos transformados en data\MMM_processed.csv
+2024-06-07 05:50:11,027 - INFO - Datos guardados exitosamente
+2024-06-07 05:50:11,057 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:50:11,107 - DEBUG - Adding TBB (D:\Bootcamp\Proyecto - Parte inicial\.env\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-06-07 05:50:11,112 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:50:11,121 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmp00xfsnw6\7_7k18ho.json
+2024-06-07 05:50:11,124 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmp00xfsnw6\fvwqi98_.json
+2024-06-07 05:50:11,125 - DEBUG - idx 0
+2024-06-07 05:50:11,125 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:50:11,125 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=98021', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmp00xfsnw6\\7_7k18ho.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmp00xfsnw6\\fvwqi98_.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmp00xfsnw6\\prophet_modelal2237sz\\prophet_model-20240607055011.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:50:11,125 - INFO - Chain [1] start processing
+2024-06-07 05:50:11,377 - INFO - Chain [1] done processing
+2024-06-07 05:50:15,718 - INFO - Extrayendo datos para AOS desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:50:15,899 - INFO - Datos extraídos exitosamente para AOS
+2024-06-07 05:50:15,900 - INFO - Transformando datos
+2024-06-07 05:50:15,900 - INFO - Datos transformados exitosamente
+2024-06-07 05:50:15,901 - INFO - Guardando datos transformados en data\AOS_processed.csv
+2024-06-07 05:50:15,902 - INFO - Datos guardados exitosamente
+2024-06-07 05:50:15,902 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:50:15,962 - DEBUG - TBB already found in load path
+2024-06-07 05:50:15,966 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:50:15,973 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmp00xfsnw6\r2e0xmtg.json
+2024-06-07 05:50:15,975 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmp00xfsnw6\vhstaoy4.json
+2024-06-07 05:50:15,976 - DEBUG - idx 0
+2024-06-07 05:50:15,976 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:50:15,976 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=21239', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmp00xfsnw6\\r2e0xmtg.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmp00xfsnw6\\vhstaoy4.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmp00xfsnw6\\prophet_modelz0wpli7u\\prophet_model-20240607055015.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:50:15,977 - INFO - Chain [1] start processing
+2024-06-07 05:50:16,260 - INFO - Chain [1] done processing
+2024-06-07 05:50:35,819 - INFO - Extrayendo datos para MMM desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:51:38,418 - INFO - Datos extraídos exitosamente para MMM
+2024-06-07 05:51:38,419 - INFO - Transformando datos
+2024-06-07 05:51:38,420 - INFO - Datos transformados exitosamente
+2024-06-07 05:51:38,420 - INFO - Guardando datos transformados en data\MMM_processed.csv
+2024-06-07 05:51:38,421 - INFO - Datos guardados exitosamente
+2024-06-07 05:51:38,448 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:51:38,497 - DEBUG - Adding TBB (D:\Bootcamp\Proyecto - Parte inicial\.env\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-06-07 05:51:38,500 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:51:38,509 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\9tyu5myl.json
+2024-06-07 05:51:38,512 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\pka3xpbd.json
+2024-06-07 05:51:38,514 - DEBUG - idx 0
+2024-06-07 05:51:38,515 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:51:38,515 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=42023', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\9tyu5myl.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\pka3xpbd.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\prophet_modelnom27q5f\\prophet_model-20240607055138.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:51:38,515 - INFO - Chain [1] start processing
+2024-06-07 05:51:38,773 - INFO - Chain [1] done processing
+2024-06-07 05:51:43,065 - INFO - Extrayendo datos para AOS desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:51:43,389 - INFO - Datos extraídos exitosamente para AOS
+2024-06-07 05:51:43,390 - INFO - Transformando datos
+2024-06-07 05:51:43,391 - INFO - Datos transformados exitosamente
+2024-06-07 05:51:43,391 - INFO - Guardando datos transformados en data\AOS_processed.csv
+2024-06-07 05:51:43,392 - INFO - Datos guardados exitosamente
+2024-06-07 05:51:43,393 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:51:43,441 - DEBUG - TBB already found in load path
+2024-06-07 05:51:43,444 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:51:43,452 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\tx74ywf3.json
+2024-06-07 05:51:43,455 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\qrkr11ug.json
+2024-06-07 05:51:43,455 - DEBUG - idx 0
+2024-06-07 05:51:43,455 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:51:43,456 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=44469', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\tx74ywf3.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\qrkr11ug.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\prophet_model4z15z6ho\\prophet_model-20240607055143.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:51:43,456 - INFO - Chain [1] start processing
+2024-06-07 05:51:43,752 - INFO - Chain [1] done processing
+2024-06-07 05:51:46,345 - INFO - Extrayendo datos para ABT desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:51:46,527 - INFO - Datos extraídos exitosamente para ABT
+2024-06-07 05:51:46,528 - INFO - Transformando datos
+2024-06-07 05:51:46,529 - INFO - Datos transformados exitosamente
+2024-06-07 05:51:46,529 - INFO - Guardando datos transformados en data\ABT_processed.csv
+2024-06-07 05:51:46,530 - INFO - Datos guardados exitosamente
+2024-06-07 05:51:46,531 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:51:46,580 - DEBUG - TBB already found in load path
+2024-06-07 05:51:46,583 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:51:46,590 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\31wyu93b.json
+2024-06-07 05:51:46,593 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\w2utof2k.json
+2024-06-07 05:51:46,595 - DEBUG - idx 0
+2024-06-07 05:51:46,595 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:51:46,595 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=80860', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\31wyu93b.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\w2utof2k.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\prophet_modelhzavueel\\prophet_model-20240607055146.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:51:46,595 - INFO - Chain [1] start processing
+2024-06-07 05:51:46,839 - INFO - Chain [1] done processing
+2024-06-07 05:51:49,567 - INFO - Extrayendo datos para ABBV desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:51:49,703 - INFO - Datos extraídos exitosamente para ABBV
+2024-06-07 05:51:49,703 - INFO - Transformando datos
+2024-06-07 05:51:49,704 - INFO - Datos transformados exitosamente
+2024-06-07 05:51:49,704 - INFO - Guardando datos transformados en data\ABBV_processed.csv
+2024-06-07 05:51:49,705 - INFO - Datos guardados exitosamente
+2024-06-07 05:51:49,705 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:51:49,755 - DEBUG - TBB already found in load path
+2024-06-07 05:51:49,758 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:51:49,765 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\qb3r5_l6.json
+2024-06-07 05:51:49,769 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\cfwk44ca.json
+2024-06-07 05:51:49,770 - DEBUG - idx 0
+2024-06-07 05:51:49,770 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:51:49,771 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=85722', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\qb3r5_l6.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\cfwk44ca.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\prophet_modelrhr8asj7\\prophet_model-20240607055149.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:51:49,771 - INFO - Chain [1] start processing
+2024-06-07 05:51:50,022 - INFO - Chain [1] done processing
+2024-06-07 05:51:52,701 - INFO - Extrayendo datos para ACN desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:51:52,838 - INFO - Datos extraídos exitosamente para ACN
+2024-06-07 05:51:52,838 - INFO - Transformando datos
+2024-06-07 05:51:52,839 - INFO - Datos transformados exitosamente
+2024-06-07 05:51:52,839 - INFO - Guardando datos transformados en data\ACN_processed.csv
+2024-06-07 05:51:52,841 - INFO - Datos guardados exitosamente
+2024-06-07 05:51:52,842 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:51:52,899 - DEBUG - TBB already found in load path
+2024-06-07 05:51:52,902 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:51:52,910 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\rohtld0t.json
+2024-06-07 05:51:52,913 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpysvzkz2v\dvhbt3rs.json
+2024-06-07 05:51:52,914 - DEBUG - idx 0
+2024-06-07 05:51:52,914 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:51:52,914 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=13139', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\rohtld0t.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\dvhbt3rs.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpysvzkz2v\\prophet_modeltw3gjtkd\\prophet_model-20240607055152.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:51:52,914 - INFO - Chain [1] start processing
+2024-06-07 05:51:53,122 - INFO - Chain [1] done processing
+2024-06-07 05:52:04,255 - INFO - Extrayendo datos para MMM desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:53:06,957 - INFO - Datos extraídos exitosamente para MMM
+2024-06-07 05:53:06,957 - INFO - Transformando datos
+2024-06-07 05:53:06,958 - INFO - Datos transformados exitosamente
+2024-06-07 05:53:06,958 - INFO - Guardando datos transformados en data\MMM_processed.csv
+2024-06-07 05:53:06,959 - INFO - Datos guardados exitosamente
+2024-06-07 05:53:06,986 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:53:07,034 - DEBUG - Adding TBB (D:\Bootcamp\Proyecto - Parte inicial\.env\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-06-07 05:53:07,038 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:53:07,047 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\u8bmxru7.json
+2024-06-07 05:53:07,050 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\xtsspmnf.json
+2024-06-07 05:53:07,057 - DEBUG - idx 0
+2024-06-07 05:53:07,057 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:53:07,057 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=86370', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\u8bmxru7.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\xtsspmnf.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\prophet_modelyf9tev5e\\prophet_model-20240607055307.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:53:07,058 - INFO - Chain [1] start processing
+2024-06-07 05:53:07,304 - INFO - Chain [1] done processing
+2024-06-07 05:53:12,540 - INFO - Extrayendo datos para AOS desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:53:12,710 - INFO - Datos extraídos exitosamente para AOS
+2024-06-07 05:53:12,710 - INFO - Transformando datos
+2024-06-07 05:53:12,711 - INFO - Datos transformados exitosamente
+2024-06-07 05:53:12,711 - INFO - Guardando datos transformados en data\AOS_processed.csv
+2024-06-07 05:53:12,712 - INFO - Datos guardados exitosamente
+2024-06-07 05:53:12,713 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:53:12,759 - DEBUG - TBB already found in load path
+2024-06-07 05:53:12,762 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:53:12,770 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\u6puz2gi.json
+2024-06-07 05:53:12,773 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\wnr9b2aa.json
+2024-06-07 05:53:12,774 - DEBUG - idx 0
+2024-06-07 05:53:12,774 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:53:12,775 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=26634', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\u6puz2gi.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\wnr9b2aa.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\prophet_model_28up4qq\\prophet_model-20240607055312.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:53:12,775 - INFO - Chain [1] start processing
+2024-06-07 05:53:13,032 - INFO - Chain [1] done processing
+2024-06-07 05:53:15,251 - INFO - Extrayendo datos para ABT desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:53:15,426 - INFO - Datos extraídos exitosamente para ABT
+2024-06-07 05:53:15,426 - INFO - Transformando datos
+2024-06-07 05:53:15,427 - INFO - Datos transformados exitosamente
+2024-06-07 05:53:15,427 - INFO - Guardando datos transformados en data\ABT_processed.csv
+2024-06-07 05:53:15,428 - INFO - Datos guardados exitosamente
+2024-06-07 05:53:15,429 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:53:15,476 - DEBUG - TBB already found in load path
+2024-06-07 05:53:15,480 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:53:15,487 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\_faexlsi.json
+2024-06-07 05:53:15,489 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\hv7jl3v8.json
+2024-06-07 05:53:15,490 - DEBUG - idx 0
+2024-06-07 05:53:15,490 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:53:15,491 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=8755', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\_faexlsi.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\hv7jl3v8.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\prophet_modelbedstcfv\\prophet_model-20240607055315.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:53:15,491 - INFO - Chain [1] start processing
+2024-06-07 05:53:15,737 - INFO - Chain [1] done processing
+2024-06-07 05:53:18,354 - INFO - Extrayendo datos para ABBV desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:53:18,493 - INFO - Datos extraídos exitosamente para ABBV
+2024-06-07 05:53:18,494 - INFO - Transformando datos
+2024-06-07 05:53:18,495 - INFO - Datos transformados exitosamente
+2024-06-07 05:53:18,495 - INFO - Guardando datos transformados en data\ABBV_processed.csv
+2024-06-07 05:53:18,496 - INFO - Datos guardados exitosamente
+2024-06-07 05:53:18,497 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:53:18,543 - DEBUG - TBB already found in load path
+2024-06-07 05:53:18,547 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:53:18,554 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\lqp77rcw.json
+2024-06-07 05:53:18,557 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\z4lm2g_5.json
+2024-06-07 05:53:18,558 - DEBUG - idx 0
+2024-06-07 05:53:18,558 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:53:18,558 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=32629', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\lqp77rcw.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\z4lm2g_5.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\prophet_modelsirlcso2\\prophet_model-20240607055318.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:53:18,558 - INFO - Chain [1] start processing
+2024-06-07 05:53:18,831 - INFO - Chain [1] done processing
+2024-06-07 05:53:21,250 - INFO - Extrayendo datos para ACN desde 2022-11-01 hasta 2023-02-28
+2024-06-07 05:53:21,397 - INFO - Datos extraídos exitosamente para ACN
+2024-06-07 05:53:21,397 - INFO - Transformando datos
+2024-06-07 05:53:21,398 - INFO - Datos transformados exitosamente
+2024-06-07 05:53:21,398 - INFO - Guardando datos transformados en data\ACN_processed.csv
+2024-06-07 05:53:21,399 - INFO - Datos guardados exitosamente
+2024-06-07 05:53:21,400 - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-06-07 05:53:21,457 - DEBUG - TBB already found in load path
+2024-06-07 05:53:21,461 - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-06-07 05:53:21,468 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\pvmvq88f.json
+2024-06-07 05:53:21,472 - DEBUG - input tempfile: C:\Users\Axona\AppData\Local\Temp\tmpnails_nr\mv1amlxm.json
+2024-06-07 05:53:21,474 - DEBUG - idx 0
+2024-06-07 05:53:21,474 - DEBUG - running CmdStan, num_threads: None
+2024-06-07 05:53:21,474 - DEBUG - CmdStan args: ['D:\\Bootcamp\\Proyecto - Parte inicial\\.env\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=40092', 'data', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\pvmvq88f.json', 'init=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\mv1amlxm.json', 'output', 'file=C:\\Users\\Axona\\AppData\\Local\\Temp\\tmpnails_nr\\prophet_modelr1jokm7h\\prophet_model-20240607055321.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-06-07 05:53:21,475 - INFO - Chain [1] start processing
+2024-06-07 05:53:21,699 - INFO - Chain [1] done processing
